@@ -1,0 +1,16 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Application to demonstrate CRUD operation",
+  "main": "start.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "author": "shrisha.sb@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.5"
+  }
+}
